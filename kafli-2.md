@@ -1,6 +1,4 @@
-﻿---
----
-Konungur Noregs heitir Haraldur Hárfagri (hann er með fagurt hár).
+﻿Konungur Noregs heitir Haraldur Hárfagri (hann er með fagurt hár).
 Allir í landinu þurfa að hlýða honum.
 Katli finnst þetta mjög slæmt.
 Hann talar við fjölskylduna og vinina sína.
